@@ -1,0 +1,4 @@
+rootProject.name = 'JFlibusta'
+include 'core'
+include 'common'
+
